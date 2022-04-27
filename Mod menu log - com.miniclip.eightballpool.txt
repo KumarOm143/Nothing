@@ -1,0 +1,62 @@
+--------- beginning of main
+04-15 18:28:59.599 10522 10522 W logcat  : type=1400 audit(0.0:108621): avc: denied { search } for name="mm" dev="sysfs" ino=6927 scontext=u:r:untrusted_app:s0:c95,c258,c512,c768 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0 app=com.miniclip.eightballpool
+04-15 18:29:00.734  7725  7725 W Choreographer: OPTS_INPUT: First frame was drawed before optimized, so skip!
+04-15 18:29:01.520  7725  8102 D AudioTrack: setVolume(2428): 0x9dd86080, left = 1.000000, right = 1.000000
+04-15 18:29:01.520  7725  8091 D AudioTrack: setVolume(2425): 0xe47b3e00, left = 1.000000, right = 1.000000
+04-15 18:29:01.520  7725  8102 D AudioTrack: setVolume(2423): 0x9a316200, left = 0.079361, right = 0.079361
+04-15 18:29:01.520  7725  8091 D AudioTrack: start(2425): 0xe47b3e00, prior state:STATE_STOPPED
+04-15 18:29:01.529  7725  8102 D AudioTrack: setVolume(2425): 0xe47b3e00, left = 1.000000, right = 1.000000
+04-15 18:29:01.529  7725  8102 D AudioTrack: setVolume(2409): 0x9ecd3c80, left = 0.030067, right = 0.030067
+04-15 18:29:01.529  7725  8102 D AudioTrack: setVolume(2431): 0x9dd86400, left = 0.026043, right = 0.026043
+04-15 18:29:01.529  7725  8102 D AudioTrack: setVolume(2430): 0x9f134e80, left = 1.000000, right = 1.000000
+04-15 18:29:01.529  7725  8102 D AudioTrack: setVolume(2426): 0xa6254580, left = 0.121540, right = 0.121540
+04-15 18:29:01.529  7725  8102 D AudioTrack: setVolume(2415): 0x9dd83300, left = 1.000000, right = 1.000000
+04-15 18:29:01.529  7725  8102 D AudioTrack: setVolume(2418): 0x9f134b00, left = 0.480660, right = 0.480660
+04-15 18:29:01.529  7725  8102 D AudioTrack: setVolume(2421): 0x9ecd3900, left = 0.204520, right = 0.204520
+04-15 18:29:01.618  7725  8091 D AudioTrack: setVolume(2431): 0x9dd86400, left = 0.967754, right = 0.967754
+04-15 18:29:01.618  7725  8102 D AudioTrack: setVolume(2428): 0x9dd86080, left = 1.000000, right = 1.000000
+04-15 18:29:01.618  7725  8091 D AudioTrack: start(2431): 0x9dd86400, prior state:STATE_STOPPED
+04-15 18:29:01.618  7725  8102 D AudioTrack: setVolume(2423): 0x9a316200, left = 0.079361, right = 0.079361
+04-15 18:29:01.618  7725  8102 D AudioTrack: setVolume(2425): 0xe47b3e00, left = 1.000000, right = 1.000000
+04-15 18:29:01.618  7725  8102 D AudioTrack: setVolume(2409): 0x9ecd3c80, left = 0.030067, right = 0.030067
+04-15 18:29:01.622  7725  8102 D AudioTrack: setVolume(2431): 0x9dd86400, left = 0.967754, right = 0.967754
+04-15 18:29:01.622  7725  8102 D AudioTrack: setVolume(2430): 0x9f134e80, left = 1.000000, right = 1.000000
+04-15 18:29:01.622  7725  8102 D AudioTrack: setVolume(2426): 0xa6254580, left = 0.121540, right = 0.121540
+04-15 18:29:01.622  7725  8102 D AudioTrack: setVolume(2415): 0x9dd83300, left = 1.000000, right = 1.000000
+04-15 18:29:01.622  7725  8102 D AudioTrack: setVolume(2418): 0x9f134b00, left = 0.480660, right = 0.480660
+04-15 18:29:01.622  7725  8102 D AudioTrack: setVolume(2421): 0x9ecd3900, left = 0.204520, right = 0.204520
+04-15 18:29:01.668  7725  8091 D AudioTrack: setVolume(2423): 0x9a316200, left = 0.957706, right = 0.957706
+04-15 18:29:01.668  7725  8102 D AudioTrack: setVolume(2428): 0x9dd86080, left = 1.000000, right = 1.000000
+04-15 18:29:01.668  7725  8091 D AudioTrack: start(2423): 0x9a316200, prior state:STATE_STOPPED
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2423): 0x9a316200, left = 0.957706, right = 0.957706
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2425): 0xe47b3e00, left = 1.000000, right = 1.000000
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2409): 0x9ecd3c80, left = 0.030067, right = 0.030067
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2431): 0x9dd86400, left = 0.967754, right = 0.967754
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2430): 0x9f134e80, left = 1.000000, right = 1.000000
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2426): 0xa6254580, left = 0.121540, right = 0.121540
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2415): 0x9dd83300, left = 1.000000, right = 1.000000
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2418): 0x9f134b00, left = 0.480660, right = 0.480660
+04-15 18:29:01.672  7725  8102 D AudioTrack: setVolume(2421): 0x9ecd3900, left = 0.204520, right = 0.204520
+04-15 18:29:01.916  7725  8102 D AudioTrack: setVolume(2428): 0x9dd86080, left = 1.000000, right = 1.000000
+04-15 18:29:01.917  7725  8102 D AudioTrack: setVolume(2423): 0x9a316200, left = 0.957706, right = 0.957706
+04-15 18:29:01.917  7725  8091 D AudioTrack: setVolume(2421): 0x9ecd3900, left = 0.713718, right = 0.713718
+04-15 18:29:01.917  7725  8102 D AudioTrack: setVolume(2425): 0xe47b3e00, left = 1.000000, right = 1.000000
+04-15 18:29:01.917  7725  8091 D AudioTrack: start(2421): 0x9ecd3900, prior state:STATE_STOPPED
+04-15 18:29:01.917  7725  8102 D AudioTrack: setVolume(2409): 0x9ecd3c80, left = 0.030067, right = 0.030067
+04-15 18:29:01.918  7725  8102 D AudioTrack: setVolume(2431): 0x9dd86400, left = 0.967754, right = 0.967754
+04-15 18:29:01.918  7725  8102 D AudioTrack: setVolume(2430): 0x9f134e80, left = 1.000000, right = 1.000000
+04-15 18:29:01.918  7725  8102 D AudioTrack: setVolume(2426): 0xa6254580, left = 0.121540, right = 0.121540
+04-15 18:29:01.918  7725  8102 D AudioTrack: setVolume(2415): 0x9dd83300, left = 1.000000, right = 1.000000
+04-15 18:29:01.918  7725  8102 D AudioTrack: setVolume(2418): 0x9f134b00, left = 0.480660, right = 0.480660
+04-15 18:29:01.927  7725  8102 D AudioTrack: setVolume(2421): 0x9ecd3900, left = 0.713718, right = 0.713718
+04-15 18:29:01.947  7725 10526 D AudioTrack: stop(sessionID=22809)
+04-15 18:29:01.947  7725 10526 D AudioTrack: stop(2431): 0x9dd86400, prior state:STATE_ACTIVE
+04-15 18:29:01.947  7725 10526 D AudioTrack: stop(2431): 0x9dd86400 stop done
+04-15 18:29:02.078  7725 10526 D AudioTrack: stop(sessionID=22745)
+04-15 18:29:02.078  7725 10526 D AudioTrack: stop(2423): 0x9a316200, prior state:STATE_ACTIVE
+04-15 18:29:02.079  7725 10526 D AudioTrack: stop(2423): 0x9a316200 stop done
+04-15 18:29:02.210  7725 10526 D AudioTrack: stop(sessionID=22761)
+04-15 18:29:02.210  7725 10526 D AudioTrack: stop(2425): 0xe47b3e00, prior state:STATE_ACTIVE
+04-15 18:29:02.210  7725 10526 D AudioTrack: stop(2425): 0xe47b3e00 stop done
+04-15 18:29:02.243 10527 10527 W logcat  : type=1400 audit(0.0:108622): avc: denied { search } for name="mm" dev="sysfs" ino=6927 scontext=u:r:untrusted_app:s0:c95,c258,c512,c768 tcontext=u:object_r:sysfs_mm:s0 tclass=dir permissive=0 app=com.miniclip.eightballpool
+
